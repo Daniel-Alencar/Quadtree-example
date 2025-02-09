@@ -12,4 +12,4 @@ Abra um terminal no seu computador e baixe este repositório.
 ```
 git clone https://github.com/Daniel-Alencar/Quadtree-example
 ```
-Navegue até a pasta do projeto e simplemente, abra o arquivo ["src/views/index.html"](src/views/index.html) em seu navegador e a aplicação já deve estar em execução!
+Navegue até a pasta do projeto e simplesmente, abra o arquivo ["src/views/index.html"](src/views/index.html) em seu navegador e a aplicação já deve estar em execução!
